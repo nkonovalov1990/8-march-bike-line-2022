@@ -1,16 +1,10 @@
 const PLANS = [
   {
-    title: 'Новый план с БРТ',
-    map: 'with-BRT.plan.png',
+    title: 'Предлагаемые изменения',
+    map: 'with-bike-line.plan.png',
     legend: 'functional-zones.legend.png',
     // pinned: true,
     default: true
-  },
-  {
-    title: 'Новый план без БРТ',
-    map: 'without-BRT.plan.png',
-    legend: 'functional-zones.legend.png',
-    // pinned: true
   },
   {
     title: 'Исходный план',
